@@ -1,0 +1,23 @@
+{
+  "name": "Youtube-Chan",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord-voice": "^2.0.4",
+    "discord.js": "^12.2.0",
+    "express": "^4.17.1",
+    "fc": "^1.6.1",
+    "fs-extra": "^11.1.0",
+    "helper": "0.0.13",
+    "lib": "^4.3.3",
+    "yt-search": "^2.10.1",
+    "ytdl-core": "^4.9.1"
+  }
+}
